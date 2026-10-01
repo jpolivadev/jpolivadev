@@ -30,4 +30,3 @@ Trabalho com dados, automação e inteligência artificial aplicada a processos 
 - **Imersão Dados com Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/joao-oliva)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpolivadev@gmail.com)
